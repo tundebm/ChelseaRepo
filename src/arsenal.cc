@@ -1,8 +1,10 @@
-#include ""[Darsena.h"
+#include "arsenal.h"
 
-int main () {}[D
+int main () {
 
-[D[D[A[A[A[B[C[C[C[C[C[C[C[C[C[C[C[C[C
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[
-[A[BscoreGoal();
+
+scoreGoal();
+
+return 0;
+
 }
